@@ -18,7 +18,10 @@ I am also an open-source enthusiast. I am learning a lot from the open-source co
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaraj13&layout=demo&theme=monokai" height=200 />
+  
+  [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyaraj13&theme=redical)](https://github.com/infiniteoverflow/github-readme-activity-graph)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyaraj13&theme=radical)](https://git.io/streak-stats)
+
 </div>
 
   
