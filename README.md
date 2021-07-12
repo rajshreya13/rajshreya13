@@ -18,7 +18,6 @@ I am also an open-source enthusiast. I am learning a lot from the open-source co
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaraj13&show_icons=true&theme=monokai&bg_color=#ffffff" height=200 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaraj13&layout=demo&theme=monokai" height=200 />
 </div>
 
