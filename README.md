@@ -19,7 +19,6 @@ I am also an open-source enthusiast. I am learning a lot from the open-source co
 
 <div align="center">
   
-  [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyaraj13&theme=redical)](https://github.com/infiniteoverflow/github-readme-activity-graph)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyaraj13&theme=radical)](https://git.io/streak-stats)
 
 </div>
