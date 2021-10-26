@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/65019686/122669256-14faf980-d1da-11eb-9867-a591ea678a83.gif" width=700 />
-</div>
-
-<br />
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shreyaraj13&label=Visitors&color=FF3D78&style=plastic%22%20alt=%22khanfarhan10" />
-  <a href="https://www.linkedin.com/in/rajshreya/"><img src="https://img.shields.io/static/v1?logo=Linkedin&label=&message=Linkedin&color=36393f" alt="Discord"></a>
-</p>
 
 <br />
 
